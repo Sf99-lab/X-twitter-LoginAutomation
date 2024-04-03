@@ -1,4 +1,4 @@
-# X-twitter-LoginAutomation
+# X-twitter-LoginAutomation and posting tweets.
 This script automate X login
 --------------------------------------------------------------------
 ---------------------------------------------------------------------
